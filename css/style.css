@@ -22,7 +22,8 @@ h2 {
 }
 
 p,
-ul {
+ul,
+figcaption {
   font-family: "Libre Bodini", Georgia, serif;
   color: #828A93;
   list-style-type: circle;
